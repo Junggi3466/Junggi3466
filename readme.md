@@ -4,7 +4,7 @@
 
 
 ## Github Stats
-![(Junggi3466)'s GitHub stats](https://github-readme-stats.vercel.app/api?username=(Junggi3466))
+
 
 ## Tech Stacks
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
